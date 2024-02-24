@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Source\Controller;
-include __DIR__ ."/../Repository/CharityRepository.php";
+// include __DIR__ ."/../Repository/CharityRepository.php";
 use App\Source\Repository\CharityRepository;
 use App\Source\Entity\Charity;
 

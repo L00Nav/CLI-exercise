@@ -1,7 +1,7 @@
 <?php
 namespace App\Source\Abstractions;
 
-include __DIR__ . "/../Interfaces/RepositoryInterface.php";
+// include __DIR__ . "/../Interfaces/RepositoryInterface.php";
 
 use App\Source\Interfaces\RepositoryInterface as RepositoryInterface;
 

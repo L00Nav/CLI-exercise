@@ -1,9 +1,9 @@
 <?php
 namespace App\Source;
 
-include __DIR__ ."/Controller/CharityController.php";
-include __DIR__ ."/Controller/DonationController.php";
-include __DIR__ ."/Helper/Validator.php";
+// include __DIR__ ."/Controller/CharityController.php";
+// include __DIR__ ."/Controller/DonationController.php";
+// include __DIR__ ."/Helper/Validator.php";
 
 use App\Source\Controller\CharityController;
 use App\Source\Controller\DonationController;

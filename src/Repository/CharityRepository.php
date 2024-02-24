@@ -1,8 +1,8 @@
 <?php
 namespace App\Source\Repository;
 
-include __DIR__ . '/../Entity/Charity.php';
-include_once __DIR__ . '/../Abstractions/AbstractRepository.php';
+// include __DIR__ . '/../Entity/Charity.php';
+// include_once __DIR__ . '/../Abstractions/AbstractRepository.php';
 
 use App\Source\Abstractions\AbstractRepository;
 use App\Source\Entity\Charity;
